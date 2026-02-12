@@ -27,7 +27,8 @@ function Herosection(props) {
           <img src="images/avatar-1.svg" alt="Bolby" className="mb-4" />
 
           <h1 className="mb-1">Ovais Butt</h1>
-          <h5 className="mb-4" > Software Engineer, CEO/Founder @<a href="https://hashnaut.com/" target={"_blank"} >Hashnaut</a> </h5>
+          <h5 className="mb-4" > Software Engineer, CEO/Founder @<a href="https://hashnaut.com/" target={"_blank"} >Hashnaut</a>, <a href="https://apps.apple.com/us/app/glora-know-your-skins-aura/id6738141019
+Glora: Know Your Skin’s Aura" target={"_blank"} >Glora</a> </h5>
           <p>
             I develop{" "}
             <Typed
@@ -53,12 +54,12 @@ function Herosection(props) {
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://github.com/ovbutt" target={"_blank"} rel="noreferrer">
+              <a href="https://github.com/ovibutt" target={"_blank"} rel="noreferrer">
                 <i className="fab fa-github"></i>
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://twitter.com/OvButt" target={"_blank"} rel="noreferrer">
+              <a href="https://x.com/ovicooks" target={"_blank"} rel="noreferrer">
                 <i className="fab fa-twitter"></i>
               </a>
             </li>
